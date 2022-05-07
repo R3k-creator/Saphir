@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "end": "saphir:block/tech_assembler_front",
+    "side": "saphir:block/tech_assembler_side"
+  }
+}

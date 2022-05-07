@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "#I#",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "I": {
+      "item": "saphir:saphir_block"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "saphir:legendary_sword"
+  }
+}

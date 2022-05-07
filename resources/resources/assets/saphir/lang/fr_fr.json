@@ -1,0 +1,43 @@
+{
+  "item.saphir.saphir": "Saphir",
+  "item.saphir.tacos": "Tacos",
+  "item.saphir.saphir_nugget": "Fragement de Saphir",
+  "item.saphir.ram": "RAM",
+  "item.saphir.processor": "Processeur",
+  "item.saphir.cables": "Câbles",
+
+  "itemGroup.SaphirTab": "Saphir Tab",
+
+  "block.saphir.saphir_block": "Bloc de Saphir",
+  "block.saphir.saphir_ore": "Minerai de Saphir",
+  "block.saphir.azur_flower": "Fleur azur",
+  "block.saphir.technical_assembler": "Assembleur technologique",
+
+  "item.saphir.legendary_sword": "Épée légendaire",
+  "item.saphir.legendary_axe": "Hache légendaire",
+  "item.saphir.legendary_pickaxe": "Pioche légendaire",
+  "item.saphir.legendary_shovel": "Pelle légendaire",
+  "item.saphir.ultimate_tool": "Outil ultime",
+
+  "item.saphir.saphir_helmet": "Casque en saphir",
+  "item.saphir.saphir_chestplate": "Plastron en saphir",
+  "item.saphir.saphir_leggings": "Jambières en saphir",
+  "item.saphir.saphir_boots": "Bottes en saphir",
+
+  "item.saphir.dowsing_rod": "scanner",
+  "item.saphir.dowsing_rod_2": "scanner",
+  "item.saphir.dowsing_rod_3": "scanner",
+  "item.saphir.analyzer": "scanner stockage",
+
+  "tooltip.saphir.dowsing_rod.tooltip.shift": "Peut detecter des minerais de charbon, cuivre, fer et or",
+  "tooltip.saphir.dowsing_rod.tooltip": "Presser §eSHIFT§r pour plus d'informations",
+  "tooltip.saphir.dowsing_rod.tooltip.level": "§aNiveau 1",
+
+  "tooltip.saphir.dowsing_rod_2.tooltip.shift": "Peut detecter des minerais de charbon, cuivre, fer, or et diamant",
+  "tooltip.saphir.dowsing_rod_2.tooltip": "Presser §eSHIFT§r pour plus d'informations",
+  "tooltip.saphir.dowsing_rod_2.tooltip.level": "§3Niveau 2",
+
+  "tooltip.saphir.dowsing_rod_3.tooltip.shift": "Peut detecter des minerais de charbon, cuivre, fer, or, diamant et ancien debris",
+  "tooltip.saphir.dowsing_rod_3.tooltip": "Presser §eSHIFT§r pour plus d'informations",
+  "tooltip.saphir.dowsing_rod_3.tooltip.level": "§cNiveau 3"
+}
