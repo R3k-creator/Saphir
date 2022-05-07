@@ -1,0 +1,12 @@
+{
+  "type": "saphir:tech_assembler",
+  "ingredients": [
+    {
+      "item": "saphir:ram",
+      "item": "saphir:ram"
+    }
+  ],
+  "output": {
+    "item": "saphir:dowsing_rod"
+  }
+}
