@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "saphir:block/tech_assembler_side",
+    "side": "saphir:block/technical_assembler"
+  }
+}

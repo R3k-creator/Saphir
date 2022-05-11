@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "I": {
+      "item": "saphir:saphir_block"
+    }
+  },
+  "result": {
+    "item": "saphir:legendary_pickaxe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "saphir:saphir_ore",
+    "minecraft:diamond_ore",
+    "minecraft:iron_ore",
+    "minecraft:coal_ore",
+    "minecraft:gold_ore",
+    "minecraft:copper_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deesplate_diamond_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:ancient_debris"
+  ]
+}

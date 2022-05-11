@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "saphir:saphir"
+    }
+  },
+  "result": {
+    "item": "saphir:saphir_block"
+  }
+}
